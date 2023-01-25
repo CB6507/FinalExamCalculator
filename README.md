@@ -4,4 +4,4 @@ The initial scope of this program was to create a Python program that calculates
 
 # Goals
 
-Expand the scope of this program by making it applicable and useful for any class according to the weights of the assignments as they relate to the needed final exam score.
+Expand the scope of this program by making it applicable and useful for any class according to the weights of the assignments, as they relate to the needed final exam score.
